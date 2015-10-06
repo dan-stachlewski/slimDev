@@ -1,0 +1,13 @@
+{
+    "name": "vendor/slim-hello",
+    "description": "Description of project SlimHello.",
+    "authors": [
+        {
+            "name": "meta",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "slim/slim": "3.0.0-RC1"
+    }
+}
